@@ -38,8 +38,8 @@ This challenge is to making a data storage layout and make it responsive.
 
 ### Links
 
-- Solution URL: [You can find My solution here](https://github.com/M3gan3Sama/fylo-data-storage-component-master.git)
-- Live Site URL: [This is my Live site for This challenge](https://m3gan3sama.github.io/fylo-data-storage-component-master/)
+- Solution URL: [You can find My solution here](https://github.com/M3gan3Sama/four-card-feature-section-master.git)
+- Live Site URL: [This is my Live site for This challenge](https://m3gan3sama.github.io/four-card-feature-section-master/)
 
 ## My process
 
