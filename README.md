@@ -53,7 +53,7 @@ This challenge is to making a data storage layout and make it responsive.
 
 ### What I learned
 
-I used ``` font-size: clamp(); ``` in this project for the first time.
+I used ``` font-size: clamp(); ``` for the first time in this project .
 
 ## Table of contents
 
